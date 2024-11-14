@@ -82,30 +82,26 @@ plt.show()
 ## Output:
 
 ### Display the input Image
-<br>
+
 <br>
 
 <img width="162" alt="{EF9ED459-E5CA-4D7A-83A2-F78A052CA479}" src="https://github.com/user-attachments/assets/92e7665d-7f02-4c65-9dcf-7d4fcee9460f">
 
 <br>
-<br>
+
 
 ### Display the result of Opening
-<br>
-<br>
 
 <img width="123" alt="{B29BEF7F-DE72-4936-AF1E-8FFA8BEEBE09}" src="https://github.com/user-attachments/assets/ec12105a-2ffc-4c00-a414-e8fff91bfb0c">
+<br>
 
-<br>
-<br>
 
 ### Display the result of Closing
-<br>
-<br>
+
 
 <img width="145" alt="{C53C6049-09C6-4DF9-869A-6B5EA4A7E535}" src="https://github.com/user-attachments/assets/d236f802-a1d0-45e4-809a-3d8db3e56cb2">
 
-<br>
+
 <br>
 
 ## Result
